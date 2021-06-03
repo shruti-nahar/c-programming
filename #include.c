@@ -1,9 +1,9 @@
 /////////////////////////////////////
-*Input: 153
+/*Input: 153
 *Output:Sum of digit is 9
 *Description:Sum of digit
 *Date: 2-June-2021
-*Author: Shruti Nahar 
+*Author: Shruti Nahar */
 /////////////////////////////////////////
 #include<stdio.h>
 int main()
