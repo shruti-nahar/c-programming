@@ -1,3 +1,15 @@
+/////////////////////////////////////
+/*Input:--
+*Output:
+    A    B    C    D    E
+    F    G    H    I
+    J    K    L
+    M    N
+    O
+*Description:Character Pattern
+*Date:16-June-2021
+*Author:Shruti Nahar*/ 
+/////////////////////////////////////////
 #include<stdio.h>
 int main()
 {
