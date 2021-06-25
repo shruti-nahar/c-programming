@@ -1,20 +1,21 @@
 //////////////////////////////////////
-/*Input:5
-Enter Elements:
-50
-40
-20
-30
+/*Input: how many no to enter in an array
+5
+enter the elements of array......
 10
-*Output:
+30
+50
+20
+40
+*Output: 
 elements of array are
-   50   40   20   30   10
+   10   30   50   20   40
 sorted data in asecending order
    10   20   30   40   50
-sorted element in desecending order
+ sorted element in desecending order
    50   40   30   20   10
-*Description:Sorting the elements in ascending and descending order
-*Date:11-june-2021
+*Description:Sorting of Array Elements in ascending and descending order
+*Date: 25-June-2021
 *Author: Shruti Nahar */
 /////////////////////////////////////////
 #include <stdio.h>
