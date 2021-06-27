@@ -1,3 +1,20 @@
+/////////////////////////////////////
+/*Input:--
+*Output: 
+          a&b=8
+          a|b=9
+          a<<2=32
+          b>>3=1
+          a^b=1
+          x&y=4
+          x|y=7
+          x<<2=24
+          y>>3=1
+          x^y=3
+*Description:Implementation of Bitwise Operator
+*Date: 27-June-2021
+*Author: Shruti Nahar */
+/////////////////////////////////////////
 #include <stdio.h>
 #include <conio.h>
 int main()
