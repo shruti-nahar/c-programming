@@ -13,7 +13,7 @@
 sum of upperbound  is 11
 sum of diagonal is 15
 sum of lower bound is 19
-*Description:Basic use of while loop
+*Description:Display the addition of upper bound, lower bound and diagonal of matrix
 *Date:1-July-2021
 *Author name: Shruti Nahar*/
 #include<stdio.h>
