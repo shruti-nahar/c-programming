@@ -1,11 +1,11 @@
 
 ////////////////////////////////////////////////////////
-//Function Name:Maximum
-//Input:8225 665 3 76 953 858 
-//Output:8225
-//Description:Accept N numbers from user and return the largest number.
-//Date:11/08/2021
-//Author: Shruti Nahar
+/*Function Name:Maximum
+Input:8225 665 3 76 953 858 
+Output:8225
+Description:Accept N numbers from user and return the largest number.
+Date:11/08/2021
+Author: Shruti Nahar*/
 ///////////////////////////////////////////////////////
 
 #include<stdio.h> 
