@@ -6,7 +6,7 @@ Output:8225
 Description:Accept N numbers from user and return the largest number.
 Date:11/08/2021
 Author: Shruti Nahar*/
-///////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////
 
 #include<stdio.h> 
 #define TRUE 1 
